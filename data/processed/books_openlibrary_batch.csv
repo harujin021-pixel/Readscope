@@ -1,0 +1,361 @@
+isbn,title,author,publisher,publication_year,subject,source,source_record_id,import_date,data_quality_flags
+9781098166304,AI Engineering,Chip Huyen,"O'Reilly Media, Incorporated",2024,Artificial intelligence,OPEN_LIBRARY,OL39671094W,,PASS
+9780201500301,Artificial intelligence,Patrick Henry Winston,Addison-Wesley Pub. Co.,1977,Artificial intelligence,OPEN_LIBRARY,OL2024373W,,PASS
+9780895121882,Understanding Artificial Intelligence,Henry C. Mishkoff,Texas Instruments,1985,Artificial intelligence,OPEN_LIBRARY,OL15155081W,,PASS
+9780195671544,Artificial Intelligence and Intelligent Systems,N. P. Padhy,Oxford University Press,2005,Artificial intelligence,OPEN_LIBRARY,OL5878924W,,PASS
+9780316330213,The Age of A.I.,Henry Kissinger; Eric Schmidt; Daniel Huttenlocher,Little Brown & Company,2021,Artificial intelligence,OPEN_LIBRARY,OL24739863W,,PASS
+9781541675797,A Thousand Brains,Jeff Hawkins,Hachette Book Group and Blackstone Publishing,2021,Brain,OPEN_LIBRARY,OL24217597W,,PASS
+9780262337588,Machine learning,Ethem Alpaydin,The MIT Press,2016,Artificial intelligence,OPEN_LIBRARY,OL19723604W,,PASS
+9781501227745,Superintelligence,Nick Bostrom,TEELL,2014,Moral and ethical aspects,OPEN_LIBRARY,OL17319280W,,PASS
+9781292472553,Artificial intelligence,Stuart J. Russell; Peter Norvig,Tsinghua University Press,1994,problem solving,OPEN_LIBRARY,OL2896994W,,PASS
+9780593593967,The Coming Wave,Mustafa Suleyman,Vintage Digital,2023,AI,OPEN_LIBRARY,OL36525720W,,PASS
+9781119467625,Artificial Intelligence for Dummies,John Paul Mueller; Luca Massaron,"Wiley & Sons, Incorporated, John",2018,Artificial intelligence,OPEN_LIBRARY,OL21617776W,,PASS
+9780070522619,Artificial intelligence,Elaine A. Rich,McGraw-Hill,1983,Artificial intelligence,OPEN_LIBRARY,OL4453349W,,PASS
+9781101066447,The age of spiritual machines,Ray Kurzweil,Gao bao guo ji (ji tuan) you xian gong si,1999,Artificial intelligence,OPEN_LIBRARY,OL1958851W,,PASS
+9780241678923,Empire of AI,Karen Hao,Allen Lane,2025,Artificial intelligence,OPEN_LIBRARY,OL42453624W,,PASS
+9780394756820,"Gödel, Escher, Bach",Douglas R. Hofstadter,Dtv,1979,Logics,OPEN_LIBRARY,OL716850W,,PASS
+9781472269003,You Look Like a Thing and I Love You,Janelle Shane,Wildfire,2019,Science,OPEN_LIBRARY,OL20889986W,,PASS
+9788815294197,Atlas of AI,Kate Crawford,Società editrice il Mulino,2021,Science,OPEN_LIBRARY,OL21659515W,,PASS
+9780241404829,Artificial Intelligence,Melanie Mitchell,"Penguin Books, Limited",2019,Science,OPEN_LIBRARY,OL20666330W,,PASS
+9780593238318,AI 2041,Kai-Fu Lee; 陈楸帆,Ebury Publishing,2021,Artificial Intelligence,OPEN_LIBRARY,OL25089156W,,PASS
+9781999579500,The Hundred-Page Machine Learning Book,Andriy Burkov,Andriy Burkov,2019,Science,OPEN_LIBRARY,OL21654311W,,PASS
+9781558602212,Essentials of Artificial Intelligence,Matthew L. Ginsberg,Morgan Kaufmann Publishers,1993,Artificial intelligence,OPEN_LIBRARY,OL4317696W,,PASS
+9780674576162,Mind children,Hans Moravec,Harvard University Press,1988,Artificial intelligence,OPEN_LIBRARY,OL8003283W,,PASS
+9783319193694,Artificial Intelligence and Soft Computing,Leszek Rutkowski,Springer International Publishing AG,2012,"Computer Imaging, Vision, Pattern Recognition and Graphics",OPEN_LIBRARY,OL19827983W,,PASS
+9780141979243,The Master Algorithm,Pedro Domingos,Paloma Yayinlari,2015,Information Theory,OPEN_LIBRARY,OL19663805W,,PASS
+9786052205853,Novacene,James Lovelock; Bryan Appleyard,Paidós,2019,Gaia hypothesis,OPEN_LIBRARY,OL20724599W,,PASS
+9781529213515,Resisting AI,Dan McQuillan,Bristol University Press,2022,Artificial intelligence,OPEN_LIBRARY,OL25477897W,,PASS
+9780262191937,The sciences of the artificial,Herbert Alexander Simon,MIT Press,1969,Science,OPEN_LIBRARY,OL1205035W,,PASS
+9780525558620,Human Compatible,Stuart J. Russell,Audible,2019,Safety measures,OPEN_LIBRARY,OL20492448W,,PASS
+9781328546395,AI superpowers,Kai-Fu Lee,Houghton Mifflin Harcourt Trade & Reference Publishers,2018,SOCIAL SCIENCE / Future Studies,OPEN_LIBRARY,OL17994504W,,PASS
+9780805078534,On intelligence,Jeff Hawkins; Sandra Blakeslee,"Holt & Company, Henry",2005,Brain,OPEN_LIBRARY,OL19892210W,,PASS
+9780415564823,Artificial intelligence,K. Warwick,Routledge,2012,Intellect,OPEN_LIBRARY,OL16282805W,,PASS
+9780716711353,Machines Who Think,Pamela McCorduck,W. H. Freeman and Company,1979,Artificial intelligence,OPEN_LIBRARY,OL2980144W,,PASS
+9780387342245,Artificial Intelligence Applications and Innovations,Lazaros S. Iliadis; Ilias Maglogiannis; Harris Papadopoulos,Springer Berlin / Heidelberg,2006,Artificial intelligence,OPEN_LIBRARY,OL20668591W,,PASS
+9780262111218,The Age of Intelligent Machines,Ray Kurzweil,MIT Press,1990,Computers,OPEN_LIBRARY,OL1958849W,,PASS
+9780374715236,Artificial Intelligence,Melanie Mitchell,"Penguin Books, Limited",2019,Machine learning,OPEN_LIBRARY,OL21678826W,,PASS
+9780130488695,Artificial Intelligence,Alain Bonnet,Prentice-Hall International,1985,Artificial intelligence,OPEN_LIBRARY,OL4707262W,,PASS
+9780181447559,Computerdenken,Roger Penrose,Spektrum Akademischer Verlag,1989,Computers,OPEN_LIBRARY,OL3474158W,,PASS
+9780756791582,Creation,Steve Grand,Weidenfeld & Nicolson,2000,Biological systems,OPEN_LIBRARY,OL6244224W,,PASS
+9780140232691,Hackers,Steven Levy,PENGUIN BOOKS LTD,1984,Computer programming,OPEN_LIBRARY,OL804638W,,PASS
+9780262012119,Introduction to machine learning,Ethem Alpaydin,The MIT Press,2004,Apprentissage automatique,OPEN_LIBRARY,OL5743132W,,PASS
+9780080514895,Probabilistic reasoning in intelligent systems,Judea Pearl,Morgan Kaufmann Publishers,1988,Artificial intelligence,OPEN_LIBRARY,OL4624598W,,PASS
+9781292730844,Artificial Intelligence,Michael Negnevitsky,"Addison-Wesley Longman, Incorporated",2001,Artificial intelligence,OPEN_LIBRARY,OL8021724W,,PASS
+9788830137998,Nexus,Yuval Noah Harari,Bompiani,2024,New York Times bestseller,OPEN_LIBRARY,OL37826293W,,PASS
+9783319155241,Why greatness cannot be planned,Kenneth O. Stanley,Springer,2015,Biology,OPEN_LIBRARY,OL20024858W,,PASS
+9781847940988,Dark Pools,Scott Patterson,Penguin Random House,2012,Online stockbrokers,OPEN_LIBRARY,OL16499350W,,PASS
+9781098122461,"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",Aurélien Géron,"O'Reilly Media, Incorporated",2019,machine learning,OPEN_LIBRARY,OL20709638W,,PASS
+9780262035613,Deep Learning,Ian Goodfellow; Yoshua Bengio; Aaron Courville,MIT Press,2016,Machine learning,OPEN_LIBRARY,OL17801809W,,PASS
+9781119245773,Machine Learning For Dummies,John Paul Mueller; Luca Massaron,"Wiley & Sons, Incorporated, John",2016,Machine learning,OPEN_LIBRARY,OL19546858W,,PASS
+9781098107963,Designing Machine Learning Systems,Chip Huyen,O'Reilly Media,2022,Machine learning,OPEN_LIBRARY,OL26768541W,,PASS
+9781549617218,Machine Learning For Absolute Beginners,Oliver Theobald,Independently published,2017,Science,OPEN_LIBRARY,OL20794000W,,PASS
+9780262306164,Machine learning,Kevin P. Murphy; Kevin P. Murphy,MIT Press,2012,Probabilities,OPEN_LIBRARY,OL16571885W,,PASS
+9780262315548,Introduction to Machine Learning,Ethem Alpaydin,The MIT Press,2009,Machine learning,OPEN_LIBRARY,OL17366306W,,PASS
+9781498738569,First Course in Machine Learning,Simon Rogers; Mark Girolami,Chapman & Hall/CRC,2011,Machine learning,OPEN_LIBRARY,OL21598239W,,PASS
+9780585024455,Reinforcement Learning,Richard S. Sutton,MIT Press,1992,Computer science,OPEN_LIBRARY,OL19899345W,,PASS
+9781119642145,Machine Learning,Jason Bell,Wiley,2014,Machine learning,OPEN_LIBRARY,OL20347411W,,PASS
+9780262304733,Foundations of machine learning,Mehryar Mohri,MIT Press,2012,Computer algorithms,OPEN_LIBRARY,OL16585190W,,PASS
+9781789805178,Hands-On Artificial Intelligence for Cybersecurity,Alessandro Parisi,"Packt Publishing, Limited",2019,Computer security,OPEN_LIBRARY,OL25752040W,,PASS
+9789811389610,Advanced Computing and Systems for Security,Rituparna Chaki; Agostino Cortesi; Khalid Saeed,Springer Singapore Pte. Limited,2015,Computer security,OPEN_LIBRARY,OL20730220W,,PASS
+9780387772417,Support vector machines,Ingo Steinwart,Springer,2008,Machine learning,OPEN_LIBRARY,OL13644324W,,PASS
+9781617293702,Grokking Deep Learning,Andrew Trask,Manning,2019,Machine learning,OPEN_LIBRARY,OL19542015W,,PASS
+9781638352457,Machine learning in action,Peter Harrington,Manning,2012,"Handbooks, manuals",OPEN_LIBRARY,OL16703378W,,PASS
+9781492078197,AI and Machine Learning for Coders,Laurence Moroney,"O'Reilly Media, Incorporated",2020,Information theory,OPEN_LIBRARY,OL21697521W,,PASS
+9798341607989,Hands-On Machine Learning with Scikit-Learn and PyTorch,Aurélien Géron,"O'Reilly Media, Incorporated",2025,Machine learning,OPEN_LIBRARY,OL44325799W,,PASS
+9780934613095,Machine learning,Ryszard S. Michalski; Jaime G. Carbonell; Tom M. Mitchell,Morgan Kaufmann,1983,Artificial intelligence,OPEN_LIBRARY,OL16641044W,,PASS
+9781633436589,Deep Learning with Python,Francois Chollet; Matthew Watson; Matthew Watson,Manning Publications,2017,Machine learning,OPEN_LIBRARY,OL19541947W,,PASS
+9780070428072,Machine Learning,Tom M. Mitchell,McGraw-Hill,1997,Computer algorithms,OPEN_LIBRARY,OL2640191W,,PASS
+9783540403005,Advances in artificial intelligence,Canadian Society for Computational Studies of Intelligence. Conference,Springer,1996,Congresses,OPEN_LIBRARY,OL1894140W,,PASS
+9781040261163,"Introduction to AI Safety, Ethics, and Society",Dan Hendrycks,CRC Press,2025,Artificial intelligence,OPEN_LIBRARY,OL42573327W,,PASS
+9781558603073,Machine Learning Proceedings 1993,Machine Learning,Morgan Kaufmann,1993,Machine learning,OPEN_LIBRARY,OL8856023W,,PASS
+9781000481877,Deep Learning,Shriram K. Vasudevan; Siniraj Pulari; Subashri Vasudevan,CRC Press LLC,2021,Deep learning (Machine learning),OPEN_LIBRARY,OL25335853W,,PASS
+9781119466215,TensorFlow,Matthew Scarpino,"John Wiley & Sons, Inc.",2018,Artificial intelligence,OPEN_LIBRARY,OL19738443W,,PASS
+9781547417087,Fintech,Pranay Gupta; T. Mandy Tham,de Gruyter,2018,Machine learning,OPEN_LIBRARY,OL21633484W,,PASS
+9780262514125,Semi-supervised learning,Olivier Chapelle; Bernhard Schölkopf; Alexander Zien,MIT Press,2010,Supervised learning (Machine learning),OPEN_LIBRARY,OL22550012W,,PASS
+9781638354239,GANs in Action,Jakub Langr; Vladimir Bok,Manning Publications Co. LLC,2019,Machine learning,OPEN_LIBRARY,OL21337286W,,PASS
+9781138049604,The Beauty of Mathematics in Computer Science,Jun Wu,Taylor & Francis Group,2018,"Computer science, mathematics",OPEN_LIBRARY,OL24205134W,,PASS
+9780809475711,Artificial intelligence,Time-Life Books,Time-Life Books,1991,Artificial intelligence,OPEN_LIBRARY,OL16042574W,,PASS
+9783031296413,Neural Networks and Deep Learning,Charu C. Aggarwal,Springer,2018,Neural networks (Computer science),OPEN_LIBRARY,OL20524353W,,PASS
+9780262255899,Semi-supervised learning,Olivier Chapelle; Bernhard Schölkopf; Alexander Zien,The MIT Press,2006,Supervised learning (Machine learning),OPEN_LIBRARY,OL17832553W,,PASS
+9781733788502,Machine learning under a modern optimization lens,Dimitris Bertsimas,Dynamic Ideas LLC,2019,Machine learning,OPEN_LIBRARY,OL32258912W,,PASS
+9781107512825,Understanding Machine Learning,Shai Shalev-Shwartz; Shai Ben-David,Cambridge University Press,2014,Machine learning,OPEN_LIBRARY,OL17801808W,,PASS
+9780471223610,Pattern classification and scene analysis,Richard O. Duda,Wiley,1973,statistics,OPEN_LIBRARY,OL454359W,,PASS
+9780262347037,Data Science,John D. Kelleher; Brendan Tierney,MIT Press,2018,Machine learning,OPEN_LIBRARY,OL21853195W,,PASS
+9781789349757,Mastering OpenCV 4 with Python,Alberto Fernández Villán,"de Gruyter GmbH, Walter",2019,Computer vision,OPEN_LIBRARY,OL25243321W,,PASS
+9780429102509,Machine learning,Stephen Marsland,Chapman & Hall/CRC,2009,Algorithms,OPEN_LIBRARY,OL9767369W,,PASS
+9789819991785,Data Science and Big Data Analytics,Durgesh Kumar Mishra; Xin-She Yang; Aynur Unal,Springer,2018,Data mining,OPEN_LIBRARY,OL22064791W,,PASS
+9780131063600,"Machine learning, neural and statistical classification",Donald Michie,Prentice Hall,1994,Classification -- Statistical methods.,OPEN_LIBRARY,OL17769042W,,PASS
+9781402076473,Machine learning,Tony Jebara,Kluwer Academic Publishers,2003,Machine learning,OPEN_LIBRARY,OL8701520W,,PASS
+9783030966256,Machine Learning for Text,Charu C. Aggarwal,Springer,2018,Machine learning,OPEN_LIBRARY,OL20821809W,,PASS
+9780128100400,Quantum Machine Learning,Peter Wittek,Academic Press,2014,Data mining,OPEN_LIBRARY,OL21074669W,,PASS
+9780262341127,Cloud Computing for Machine Learning and Cognitive Applications,Kai Hwang,MIT Press,2017,Cloud computing,OPEN_LIBRARY,OL20228543W,,PASS
+9787513349611,Invisible Women,Caroline Criado Perez,Chatto & Windus,2019,Sex discrimination against women,OPEN_LIBRARY,OL20157508W,,PASS
+9789351102670,Data Science for Business,Foster Provost; Tom Fawcett,"O'Reilly Media, Incorporated",2013,Data mining,OPEN_LIBRARY,OL17363116W,,PASS
+9781858051642,Computer Science,Carl French; C. S. French,Continuum,1989,Computer science,OPEN_LIBRARY,OL8584971W,,PASS
+9780615459813,Data Structures and Algorithms Made Easy,Narasimha Karumanchi,www.CareerMonk.com,2011,Data structures (computer science),OPEN_LIBRARY,OL24463217W,,PASS
+9780471579557,Accounting Principles,Jerry J. Weygandt,John Wiley and Sons,1987,Accounting,OPEN_LIBRARY,OL1881226W,,PASS
+9781857028799,The Code Book,Simon Singh,Publisher,1999,Cryptography,OPEN_LIBRARY,OL31157W,,PASS
+9780070651579,An introduction to data structures with applications,Jean-Paul Tremblay; Paul Gordon Sorenson,macgraw-hill,1976,Computer programming,OPEN_LIBRARY,OL4777624W,,PASS
+9783527677221,Hacking for Dummies,Kevin Beaver; Jutta Schmidt,Brand: Wiley-VCH Verlag GmbH,2004,Computer Technology,OPEN_LIBRARY,OL6035941W,,PASS
+9780070380011,Schaum's outline of theory and problems of data structures,Seymour Lipschutz,McGraw-Hill,1986,Data structures (Computer science),OPEN_LIBRARY,OL1832424W,,PASS
+9782843049262,The Age of Surveillance Capitalism,Shoshana Zuboff,Profile Books Ltd,2018,Social aspects,OPEN_LIBRARY,OL18201749W,,PASS
+9780929306377,Fundamentals of Data Structures in C++ 2nd Edition,Ellis Horowitz; Sartaj Sahni; Dinesh Mehta,Silicon Press,2006,C++ (Computer program language),OPEN_LIBRARY,OL17362575W,,PASS
+9780062390851,Everybody Lies,Seth Stephens-Davidowitz,"Dey St., an imprint of William Morrow",2017,Data mining,OPEN_LIBRARY,OL17713946W,,PASS
+9781484200766,Pro Git,Scott Chacon; Ben Straub,Springer,2009,Computer science,OPEN_LIBRARY,OL16310859W,,PASS
+9780997316001,Computer Science Distilled,Wladston Ferreira Filho; Raimondo Pictet,Code Energy LLC,2017,Computer science,OPEN_LIBRARY,OL20873589W,,PASS
+9781009098489,Data-Driven Science and Engineering,Steven L. Brunton; J. Nathan Kutz,Cambridge University Press,1900,"Engineering, data processing",OPEN_LIBRARY,OL20705608W,,PASS
+9781718503847,Serious Cryptography,Jean-Philippe Aumasson,No Starch Press,2017,Data encryption (Computer science),OPEN_LIBRARY,OL17912167W,,PASS
+9781491904398,Data science from scratch,Joel Grus,"O'Reilly Media, Incorporated",2015,Python (Computer program language),OPEN_LIBRARY,OL20006690W,,PASS
+9788963302638,Qualitative Inquiry and Research Design,John W. Creswell,"SAGE Publications, Incorporated",1997,Methodology,OPEN_LIBRARY,OL2631701W,,PASS
+9780553397499,Dataclysm,Christian Rudder,Books On Tape,2014,Behavioral assessment,OPEN_LIBRARY,OL19982617W,,PASS
+9780465072996,The Psychology of Everyday Things,Donald A. Norman,Hachette Audio,1988,Ergonomie,OPEN_LIBRARY,OL1879162W,,PASS
+9780131997462,Data Structures Using C,Aaron M. Tenenbaum,Prentice-Hall,1990,C (Computer program language),OPEN_LIBRARY,OL4798785W,,PASS
+9780323855471,Advances in Computers,Ali R. Hurson; Veljko Milutinovic,Elsevier Science & Technology,2012,Mathematics,OPEN_LIBRARY,OL20743957W,,PASS
+9780716782711,The  (new) turing omnibus,A.K. Dewdney,Holt Paperbacks,1993,Electronic data processing,OPEN_LIBRARY,OL1950479W,,PASS
+9780198507178,Discrete mathematics,Norman Biggs,Clarendon Press,1985,Mathematics,OPEN_LIBRARY,OL3584303W,,PASS
+9780534951238,Data structures,Richard F. Gilberg; Behrouz A. Forouzan,Course Technology,1998,Data structures (Computer science),OPEN_LIBRARY,OL2751162W,,PASS
+9781135388034,Qualitative Research,Renata Tesch,Falmer Press,1990,Data processing,OPEN_LIBRARY,OL4790156W,,PASS
+9780134049984,Hadoop 2 Quick-Start Guide,Douglas Eadline,"Pearson Education, Limited",2015,File organization (computer science),OPEN_LIBRARY,OL19541916W,,PASS
+9781336214071,Computer science,J. Glenn Brookshear; Glenn Brookshear,"Pearson Education, Limited",2002,Informatica,OPEN_LIBRARY,OL20480707W,,PASS
+9788177587746,Cryptography and network security,William Stallings,Pearson Education,2006,Computer networks,OPEN_LIBRARY,OL18156276W,,PASS
+9780521337533,An Introduction to Computer Studies,Noel Kalicharan,Cambridge University Press,1988,Electronic data processing,OPEN_LIBRARY,OL3936407W,,PASS
+9780071244893,Scientific Computing,Michael T. Heath,McGraw Hill Higher Education,1996,Data processing,OPEN_LIBRARY,OL3343328W,,PASS
+9781337251853,Understanding Computers Today and Tomorrow,Deborah Morley,Tandem Library,2003,Computer science,OPEN_LIBRARY,OL15120623W,,PASS
+9781118290279,Data Structures and Algorithms in Python,Michael T. Goodrich; Roberto Tamassia; Michael H Goldwasser,"Wiley & Sons, Incorporated, John",2012,Computer algorithms,OPEN_LIBRARY,OL19548248W,,PASS
+9788177588262,Data structures and algorithms,Alfred V. Aho; John E. Hopcroft; Jeffrey D. Ullman,Addison-Wesley,1983,Algorithmes,OPEN_LIBRARY,OL3509435W,,PASS
+9780132181570,Discrete mathematics,Kenneth A. Ross,Pearson Education International,1985,Informatique,OPEN_LIBRARY,OL837648W,,PASS
+9780786566686,Crypto,Steven Levy,Penguin Publishing Group,2001,Geheimschrift,OPEN_LIBRARY,OL15835594W,,PASS
+9780757528668,Fundamentals of Computing,Kamaljeet Sanghera,Kendall Hunt,2005,"Education, data processing",OPEN_LIBRARY,OL9494537W,,PASS
+9781466304161,Data Structures and Algorithms Made Easy in Java,Narasimha Karumanchi,CreateSpace Independent Publishing Platform,2011,Data structures (computer science),OPEN_LIBRARY,OL28949260W,,PASS
+9780201748352,Data structures & problem solving using Java,Mark Allen Weiss,Addison-Wesley,1998,Java (Computer program language),OPEN_LIBRARY,OL1958939W,,PASS
+9781506353074,Qualitative Data Analysis,Matthew B. Miles; A. Michael Huberman; Johnny Saldana,"SAGE Publications, Inc",2013,"Social sciences, research",OPEN_LIBRARY,OL20162005W,,PASS
+9780131990432,Data structures,Jeffrey Esakov,Prentice Hall,1988,Data structures (Computer science),OPEN_LIBRARY,OL4640238W,,PASS
+9788120311770,Data structures using C and C++,Yedidyah Langsam,Prentice-Hall of India,2000,C++ (Computer program language),OPEN_LIBRARY,OL18184161W,,PASS
+9781783555147,Python machine learning,Sebastian Raschka,Marcombo,2015,Python (Computer program language),OPEN_LIBRARY,OL19667740W,,PASS
+9783642286032,Computational Linguistics and Intelligent Text Processing,Alexander Gelbukh,Springer,2003,Data Mining and Knowledge Discovery,OPEN_LIBRARY,OL19836244W,,PASS
+9780805309003,Computer science,J. Glenn Brookshear; Brookshear,Addison-Wesley,1985,Computer science,OPEN_LIBRARY,OL3275955W,,PASS
+9781119660484,Digital marketing for dummies,Ryan Deiss,"Wiley & Sons, Limited, John",2016,Digital media,OPEN_LIBRARY,OL19718632W,,PASS
+9780471775331,Digital photography for dummies,Julie Adair King,"John Wiley & Sons, Ltd.",1997,Cámaras fotográficas digitales,OPEN_LIBRARY,OL71938W,,PASS
+9781529722499,Digital Media and Society,Simon Lindgren,SAGE Publications Ltd,2017,Digital media,OPEN_LIBRARY,OL21150695W,,PASS
+9783499633560,How to break up with your phone,Catherine Price,Hachette,2018,Cell phones,OPEN_LIBRARY,OL19741998W,,PASS
+9781845330170,Digital Photography,Tom Ang,DK ADULT,1999,Procesamiento de imágenes,OPEN_LIBRARY,OL2619717W,,PASS
+9780240809342,The Photographer's Eye,Michael Freeman; Michael Freeman,Taylor & Francis Group,2007,Photography,OPEN_LIBRARY,OL15178362W,,PASS
+9780199968466,Converging media,John V. Pavlik; John Pavlik; Shawn McIntosh,"Oxford University Press, Incorporated",2003,Digital media,OPEN_LIBRARY,OL2721331W,,PASS
+9780262297103,Twisty Little Passages,Nick Montfort,The MIT Press,2003,Interactive multimedia,OPEN_LIBRARY,OL9261292W,,PASS
+9781446254288,Understanding New Media,Eugenia Siapera,"SAGE Publications, Limited",2011,"Mass media, technological aspects",OPEN_LIBRARY,OL21035022W,,PASS
+9781785034558,Chaos monkeys,Antonio Garcia Martinez,Harper,2016,Social media,OPEN_LIBRARY,OL20032373W,,PASS
+9783839469224,Artificial Intelligence - Intelligent Art?,Robin Markus Auer; Dietmar Elflein; Sebastian Kunas,transcript Verlag,2024,Artificial intelligence,OPEN_LIBRARY,OL37572748W,,PASS
+9780789748874,B2B digital marketing,Michael Miller,Que Publishing,2012,Digital media,OPEN_LIBRARY,OL16724913W,,PASS
+9781119276210,Introduction to Digital Media,Alessandro Delfanti; Adam Arvidsson,"Wiley & Sons, Incorporated, John",2018,Digital media,OPEN_LIBRARY,OL20155849W,,PASS
+9781280566813,The new media handbook,Peter Ride; Andrew Dewdney,Routledge,2006,Digital media,OPEN_LIBRARY,OL16929271W,,PASS
+9781305077560,Management Of Electronic And Digital Media,Alan B. Albarran,Wadsworth,2012,Mass media,OPEN_LIBRARY,OL17396254W,,PASS
+9781280879814,Complete B2b Online Marketing,Lauren Vaccarello,"Wiley & Sons, Incorporated, John",2012,Internet marketing,OPEN_LIBRARY,OL17401338W,,PASS
+9781000390575,Photography,Liz Wells,Routledge,1996,Photography,OPEN_LIBRARY,OL8092445W,,PASS
+9781509534395,Instagram,Tama Leaver; Tim Highfield; Crystal Abidin,Polity Press,2020,Photography,OPEN_LIBRARY,OL20756474W,,PASS
+9780195433814,Communication and new media,John Harrison; Martin Hirst,"Oxford University Press, USA",2007,Communication,OPEN_LIBRARY,OL18578375W,,PASS
+9781501262821,Program or be Programmed,Douglas Rushkoff,Brilliance Audio,2010,web,OPEN_LIBRARY,OL15400392W,,PASS
+9780415711197,No plastic sleeves,Larry Volk,Taylor & Francis Group,2012,Art portfolios,OPEN_LIBRARY,OL19998784W,,PASS
+9780415114073,Power without responsibility,"Curran, James.",Routledge,1981,Press,OPEN_LIBRARY,OL2640795W,,PASS
+9780273774341,Digital Media Primer,Yue-Ling Wong,Pearson,2007,Digital media,OPEN_LIBRARY,OL7954217W,,PASS
+9781636671017,Digital Literacy,Susan Wiesinger; Ralph Beliveau,"Lang AG International Academic Publishers, Peter",2016,Information technology,OPEN_LIBRARY,OL21127568W,,PASS
+9780789759603,Digital marketing analytics,Chuck Hemann,,2018,Social media,OPEN_LIBRARY,OL19746702W,,PASS
+9781412947343,The internet and the mass media,Lucy Küng; Robert G. Picard; Ruth Towse,"SAGE Publications, Limited",2008,Digital media,OPEN_LIBRARY,OL18375252W,,PASS
+9780240808680,Digital Asset Management,David Austerberry,Focal Press,2006,Digital communications,OPEN_LIBRARY,OL5715162W,,PASS
+9781780174037,Digital Marketer,Eileen Brown; Betsy Aoki,BCS Learning & Development Limited,2018,Internet marketing,OPEN_LIBRARY,OL25709760W,,PASS
+9781594206641,Irresistible,Adam L. Alter,Penguin Press,2017,Social aspects,OPEN_LIBRARY,OL20054368W,,PASS
+9781317448617,Electronic media,Norman J. Medoff,Focal Press,2011,Digital media,OPEN_LIBRARY,OL19846078W,,PASS
+9780415712781,Korean Wave,Youna Kim,Taylor & Francis Group,2013,"Mass media, social aspects",OPEN_LIBRARY,OL21270319W,,PASS
+9781351175494,Everyday Media Literacy,Sue Ellen Christian,Taylor & Francis Group,2019,Media literacy,OPEN_LIBRARY,OL25188504W,,PASS
+9783319274447,Why Engagement Matters,Heather O'Brien; Paul Cairns,Springer,2016,Digital media,OPEN_LIBRARY,OL20770578W,,PASS
+9781594205552,Reclaiming Conversation,Sherry Turkle,Penguin Publishing Group,2015,Zwischenmenschliche Beziehung,OPEN_LIBRARY,OL17313943W,,PASS
+9781317808893,Multimedia Foundations,Vic Costello,Focal Press,2012,Multimedia systems,OPEN_LIBRARY,OL21116010W,,PASS
+9781317577225,Literacy and Education,James Paul Gee,Taylor & Francis Group,2014,Literacy,OPEN_LIBRARY,OL28003593W,,PASS
+9780613914666,The digital designer,Stephen Pite,Thomson/Delmar Learning,2002,Computer graphics,OPEN_LIBRARY,OL8526254W,,PASS
+9780472024537,The Hyperlinked Society,Lokman Tsui,University of Michigan Press,2008,Sociale relaties,OPEN_LIBRARY,OL9388635W,,PASS
+9781138542884,Reimagining Communication,Michael Filimowicz; Veronika Tzankova,Taylor & Francis Group,2020,Language and languages,OPEN_LIBRARY,OL20749747W,,PASS
+9781282540163,Writing for visual media,Anthony Friedmann,Focal Press,2001,Authorship,OPEN_LIBRARY,OL222025W,,PASS
+9780739167304,Social Media,Hana S. Noor Al-Deen; John Allen Hendricks,Lexington Books,2012,Social aspects,OPEN_LIBRARY,OL16142709W,,PASS
+9789814678414,Architecting experience,Scot R. Wheeler,World Scientific Publishing Co Pte Ltd,2015,Digital media,OPEN_LIBRARY,OL22319346W,,PASS
+9780745662299,Digital Media and Society,Adrian Athique,Polity,2013,Digital media,OPEN_LIBRARY,OL21491763W,,PASS
+9780745649528,Networked,Adrienne Russell,Polity Press,2011,Online journalism,OPEN_LIBRARY,OL16605862W,,PASS
+9780714868585,Art and Electronic Media,Edward A. Shanken; Adam Hooper; Kristin Fiore,Phaidon Press Limited,2014,Digital art,OPEN_LIBRARY,OL21083971W,,PASS
+9781305292758,Discrete Mathematics with Applications,Susanna S. Epp; Susanna Epp,Cengage,1990,Computer science,OPEN_LIBRARY,OL3502985W,,PASS
+9780596516604,Learning Python,Mark Lutz; David Ascher,Shroff Publishers & Distributors Pvt. Ltd.,1999,Python (Langage de programmation),OPEN_LIBRARY,OL2784125W,,PASS
+9780735605053,Code,Charles Petzold; Charles Petzold,Microsoft Press,1999,Computer programming,OPEN_LIBRARY,OL1972516W,,PASS
+9780262510875,Structure and Interpretation of Computer Programs (SICP),Harold Abelson; Gerald Jay Sussman; Julie Sussman,Springer,1985,Computer programming,OPEN_LIBRARY,OL3267304W,,PASS
+9781593279509,Eloquent Javascript,Marijn Haverbeke,"No Starch Press, Incorporated",2009,JavaScript (Computer program language),OPEN_LIBRARY,OL15444205W,,PASS
+9780471722571,Systems Analysis and Design,Alan Dennis; Barbara Haley Wixom; David Tegarden,J. Wiley,2000,Systeemanalyse,OPEN_LIBRARY,OL5973035W,,PASS
+9781464193828,Mathematical structures for computer science,Judith L. Gersting,PALGRAVE,1982,Mathematical models,OPEN_LIBRARY,OL1922611W,,PASS
+9789339219666,Programming in ANSI C,E. Balagurusamy,5th,1994,C (Computer program language),OPEN_LIBRARY,OL27275831W,,PASS
+9789401795890,Transactions on Engineering Technologies,Sio-Iong Ao; Haeng Kon Kim; Oscar Castillo,Springer,2013,Computer engineering,OPEN_LIBRARY,OL20667190W,,PASS
+9780619108359,Computer Concepts,June Jamrich Parsons; Dan Oja,Cengage South-Western,1996,Amateurs' manuals,OPEN_LIBRARY,OL2373712W,,PASS
+9780241242636,The Book of Why,Judea Pearl; Dana Mackenzie; Dana Mackenzie Judea Pearl,"Penguin Books, Limited",2018,Computers,OPEN_LIBRARY,OL17872278W,,PASS
+9780201352139,Computer Confluence,George Beekman; Linda Ericksen,Prentice Hall,1997,Informatica,OPEN_LIBRARY,OL51556W,,PASS
+9781430231509,Game Programming Patterns,Robert Nystrom,Genever Benning,2011,Computer games,OPEN_LIBRARY,OL19650342W,,PASS
+9780534374907,Invitation to Computer Science,G. Michael Schneider; Judith L. Gersting; Judith Gersting,Course Technology Cengage Learining,1995,Computer science,OPEN_LIBRARY,OL1926026W,,PASS
+9780071742559,Gray Hat Hacking,Shon Harris; Allen Harper; Daniel Regalado,McGraw Hill,2004,Computer hackers,OPEN_LIBRARY,OL15111477W,,PASS
+9783442151776,In the Beginning...Was the Command Line,Neal Stephenson,Harper Perennial,1999,Computer Technology,OPEN_LIBRARY,OL38477W,,PASS
+9781782369219,C++,Paul J. Deitel; Harvey M. Deitel,PEARSON DISTRIBUCIÓN,1996,Java (Computer program language),OPEN_LIBRARY,OL7943176W,,PASS
+9781259676512,Discrete Mathematics and Its Applications,Kenneth H. Rosen,McGraw-Hill Higher Education,1988,Mathematics,OPEN_LIBRARY,OL31821W,,PASS
+9783540976561,Physics for Computer Science Students,Narciso Garcia; Arthur Damask; Steven Schwarz,Springer-Verlag,1986,Physics,OPEN_LIBRARY,OL2085228W,,PASS
+9780132577632,Java how to program--early objects,Paul J. Deitel; Harvey M. Deitel,PHI Learning,2011,Java (computer program language),OPEN_LIBRARY,OL19543270W,,PASS
+9780201544350,Object-Oriented Software Engineering,Ivar Jacobson,Addison-Wesley Pub.,1992,Development,OPEN_LIBRARY,OL1953422W,,PASS
+9781548955489,JavaScript,David Flanagan,O'Reilly,1996,JavaScript (Computer program language),OPEN_LIBRARY,OL1643770W,,PASS
+9781593273897,The Linux Command Line,William E. Shotts,No Starch Press,2011,Computers,OPEN_LIBRARY,OL16117040W,,PASS
+9780074620380,Object-oriented Programming with C++,E. Balagurusamy,Tata McGraw Hill Education Private Limited,1997,C++ (Computer program language),OPEN_LIBRARY,OL9305390W,,PASS
+9780023596902,Discrete mathematics,Richard Johnsonbaugh,Collier Macmillan,1984,Computer science,OPEN_LIBRARY,OL1920211W,,PASS
+9780596001674,Python Cookbook,Alex Martelli; David Ascher; David M. Beazley,O'Reilly Media,2002,Python (Computer program language),OPEN_LIBRARY,OL14873289W,,PASS
+9780120121588,"Advances in Computers, Volume 49 (Advances in Computers)",Marvin V. Zelkowitz; Marshall C. Yovits,Elsevier Science & Technology,1995,"Computers, periodicals",OPEN_LIBRARY,OL7938163W,,PASS
+9789867329134,How computers work,Ron White; Timothy Edward Downs,Pearson Education,1993,Microcomputers,OPEN_LIBRARY,OL520219W,,PASS
+9780132078457,Discrete Mathematical Structures,Bernard Kolman; Robert C. Busby; Sharon Cutler Ross,Prentice Hall,1996,Computer science,OPEN_LIBRARY,OL102147W,,PASS
+9781107302105,Quantum Computing Since Democritus,Scott Aaronson,Cambridge University Press,2013,COMPUTERS,OPEN_LIBRARY,OL16805611W,,PASS
+9788804680246,Steve Jobs,Walter Isaacson,Tian xia yuan jian chu ban gu fen you xian gong si,2011,TECHNOLOGY & ENGINEERING / General,OPEN_LIBRARY,OL16085155W,,PASS
+9780131489523,Introduction to Java Programming,Y. Daniel Liang,Pearson Education,1999,Java (Computer program language),OPEN_LIBRARY,OL114676W,,PASS
+9780321125217,Domain-Driven Design,Eric Evans,Addison-Wesley,2003,Development,OPEN_LIBRARY,OL4464385W,,PASS
+9781136443183,BTEC National for IT Practitioners,Sharon Yull,CRC Press LLC,2008,Computer science,OPEN_LIBRARY,OL21228441W,,PASS
+9782253194453,The Innovators,Walter Isaacson; Francisco José Ramos Mena; Marcos Pérez Sánchez,"Simon & Schuster, Incorporated",2014,Computer scientists,OPEN_LIBRARY,OL17074268W,,PASS
+9780195692327,Natural language processing and information retrieval,Tanveer Siddiqui; U. S. Tiwary,Oxford Univ Press,2008,Natural language processing (Computer science),OPEN_LIBRARY,OL13650817W,,PASS
+9783030912956,Cyber Security,Martti Lehto; Pekka Neittaanmäki,MOXIC,2015,"Computer networks, security measures",OPEN_LIBRARY,OL20695253W,,PASS
+9788575224625,Fluent Python,Luciano Ramalho,O'Reilly,2015,Python (Computer program language),OPEN_LIBRARY,OL19932156W,,PASS
+9780124116443,The Basics of Hacking and Penetration Testing,Patrick Engebretson,Elsevier Science & Technology Books,2011,Computer hackers,OPEN_LIBRARY,OL16190700W,,PASS
+9780136089162,Systems analysis and design,"Kendall, Kenneth E.; Kenneth E. Kendall; Julie E. Kendall",Pearson,1988,System analysis,OPEN_LIBRARY,OL2716595W,,PASS
+9780136060864,Objects first with Java,David J. Barnes; Michael Kolling; David Barnes,Pearson,2002,Java (Computer program language),OPEN_LIBRARY,OL11967463W,,PASS
+9789350236505,Programming Perl,Larry Wall; Tom Christiansen; Jon Orwant,O'Reilly & Associates,1990,Perl (Computer program language),OPEN_LIBRARY,OL1701004W,,PASS
+9780990582939,Crafting Interpreters,Robert Nystrom,Genever Benning,2021,Computer software,OPEN_LIBRARY,OL26124818W,,PASS
+9780132702256,Java Concurrency in Practice,Brian Goetz; Joshua Bloch; Joseph Bowbeer,"Pearson Education, Limited",2006,java programming language,OPEN_LIBRARY,OL16512736W,,PASS
+9780132437493,Technology in action,Alan Evans; Alan Evans,Pearson/Prentice Hall,2004,Microcomputers,OPEN_LIBRARY,OL6031175W,,PASS
+9780130338556,Introductory Mathematical Analysis,Ernest F. Haeussler; Richard S. Paul,Prentice-Hall,1973,Business mathematics,OPEN_LIBRARY,OL1826387W,,PASS
+9788833912004,What is mathematics?,Richard Courant; Herbert Robbins,OUP,1941,Mathematics,OPEN_LIBRARY,OL811195W,,PASS
+9781480560406,Algorithms to Live By,Brian Christian; Tom Griffiths; Brian Christian,Brilliance Audio,2016,Human behavior,OPEN_LIBRARY,OL17357767W,,PASS
+9780840058188,Calculus,James Stewart,Wadsworth Pub Co,1986,Calculus,OPEN_LIBRARY,OL100903W,,PASS
+9780393094268,How to Lie with Statistics,Darrell Huff; Irving Geis,Turtleback Books Distributed by Demco Media,1954,Statistics,OPEN_LIBRARY,OL2975846W,,PASS
+9788087888650,How to solve it,George Pólya,Doubleday,1945,Mathematics,OPEN_LIBRARY,OL4569830W,,PASS
+9786254435133,Humble Pi,Matt Parker,Mundi,2019,Mathematics,OPEN_LIBRARY,OL20646270W,,PASS
+9780070088511,"Applied mathematics for business, economics, and the social sciences",Frank S. Budnick,McGraw-Hill Education (ISE Editions),1979,Mathematics,OPEN_LIBRARY,OL4301885W,,PASS
+9781848878457,The Joy of X,Steven H. Strogatz,imusti,2012,Mathematics,OPEN_LIBRARY,OL16681334W,,PASS
+9781594205224,How Not to Be Wrong,Jordan Ellenberg,"Penguin Books, Limited",2014,Mathematics,OPEN_LIBRARY,OL17062668W,,PASS
+9780435038175,Heinemann Mathematics,Scottish Primary Mathematics Group,Heinemann Educational,1983,Mathematics,OPEN_LIBRARY,OL8112804W,,PASS
+9789768014160,Mathematics,Raymond Toolsie,CEP,1996,Mathematics,OPEN_LIBRARY,OL16306176W,,PASS
+9781291585452,Mathematics for the million,Lancelot Thomas Hogben,Norton,1936,Civilization,OPEN_LIBRARY,OL95059W,,PASS
+9780028343136,Mathematics,McGraw-Hill,Glencoe/McGraw-Hill,1998,collectionID:HSMath,OPEN_LIBRARY,OL14996338W,,PASS
+9780135638347,Mathematical statistics,John E. Freund,Prentice Hall,1962,Statistics textbooks,OPEN_LIBRARY,OL1945259W,,PASS
+9780618400966,Algebra 1,Ron Larson,D.C. Heath,1993,Study and teaching (Secondary),OPEN_LIBRARY,OL7943059W,,PASS
+9780471889410,Advanced Engineering Mathematics,Erwin Kreyszig,Wiley,1957,Toepassingen,OPEN_LIBRARY,OL1400344W,,PASS
+9780750685559,Engineering mathematics,"Bird, J. O.; John Bird",CRC Press LLC,1989,Engineering mathematics,OPEN_LIBRARY,OL894218W,,PASS
+9780201750836,Using and understanding mathematics,Jeffrey O. Bennett; William L. Briggs,Pearson,1998,Mathematics,OPEN_LIBRARY,OL1807942W,,PASS
+9780256023497,Mathematics; with applications in management and economics,Earl K. Bowen,R.D. Irwin,1963,"Problems, exercises",OPEN_LIBRARY,OL5285958W,,PASS
+9780344407451,A Course of Pure Mathematics,G. H. Hardy; T. W. Körner,The University press,1908,Calculus,OPEN_LIBRARY,OL9331625W,,PASS
+9786053436157,What If?,Randall Munroe,VIVAT,1980,Mathematics,OPEN_LIBRARY,OL17095301W,,PASS
+9780471044093,Mathematical Methods in the Physical Sciences,Mary L. Boas; Mary Layne Boas,John Wiley & Sons,1966,open_syllabus_project,OPEN_LIBRARY,OL5588653W,,PASS
+9780716711865,The fractal geometry of nature,Benoît B. Mandelbrot; Josep Maria Llosa; Josep Maria Llosa,Birkhäuser,1982,Geometry,OPEN_LIBRARY,OL1808391W,,PASS
+9780395321317,The Mathematical Experience,Philip J. Davis; Reuben Hersh; Elena Anne Marchisotto,Birkhäuser Verlag,1980,Philosophy,OPEN_LIBRARY,OL2907624W,,PASS
+9780691086408,Mathematics and plausible reasoning,George Pólya,Oxford University Press,1954,Symbolic and mathematical Logic,OPEN_LIBRARY,OL1213680W,,PASS
+9780521091879,Principia mathematica,Alfred North Whitehead; Bertrand Russell,The University Press,1910,Mathematics,OPEN_LIBRARY,OL1133702W,,PASS
+9788970445328,Calculus Made Easy,Silvanus Phillips Thompson,St. Martin's P,1914,Calculus,OPEN_LIBRARY,OL1084219W,,PASS
+9781119947080,Advanced engineering mathematics,Erwin Kreyszig,John Wiley & Sons,1999,Mathematical physics,OPEN_LIBRARY,OL19823928W,,PASS
+9780536632524,Understanding Symbolic Logic,Virginia Klenk; Markosian,"Custom Publishing, a division of Pearson",1983,Symbolic and mathematical Logic,OPEN_LIBRARY,OL3947083W,,PASS
+9780367524685,Data Science,Tiffany-Anne Timbers; Trevor Campbell; Melissa Lee,Taylor & Francis Group,2022,Mathematics,OPEN_LIBRARY,OL26768447W,,PASS
+9780871503657,Introduction to Probability and Statistics,William Mendenhall,Wadsworth Pub. Co.,1967,Probabilities,OPEN_LIBRARY,OL1862984W,,PASS
+9780003125474,Spectrum Maths,Dave Kirkby,HarperCollins Publishers,1989,Mathematics,OPEN_LIBRARY,OL8197157W,,PASS
+9781430453710,An introduction to mathematics,Alfred North Whitehead,"H. Holt and company; [etc., etc.",1911,Mathématiques,OPEN_LIBRARY,OL1133699W,,PASS
+9780761160960,Everything You Need to Ace Math in One Big Fat Notebook,Workman Publishing Company Staff,Workman Publishing,2016,"Mathematics, study and teaching",OPEN_LIBRARY,OL20667824W,,PASS
+9781118804896,Solutions manual to accompany Applied mathematics and modeling for chemical engineers,Richard G. Rice,Wiley,1996,Differential equations,OPEN_LIBRARY,OL3168011W,,PASS
+9780534998462,College algebra,Jerome E. Kaufmann; Karen L. Schwitters,"Prindle, Weber & Schmidt",1987,Algebra,OPEN_LIBRARY,OL28915W,,PASS
+9780867200935,Calculus with analytic geometry,Murray H. Protter; Philip E. Protter,Addison Wesley,1967,Analytic Geometry,OPEN_LIBRARY,OL1870001W,,PASS
+9781565775077,Saxon Math 8/7,Stephen Hake,Saxon Pub,2003,collectionID:MidMath,OPEN_LIBRARY,OL8727561W,,PASS
+9780618174409,Precalculus With Limits,Ron Larson,Houghton Mifflin College Div,1993,Functions,OPEN_LIBRARY,OL7943058W,,PASS
+9781492055266,Laws of UX,Jon Yablonski,O'Reilly Media,2020,Mathematics,OPEN_LIBRARY,OL21665266W,,PASS
+9780124847637,Intermediate algebra,Charles P. McKeague,Harcourt,1979,"Problems, exercises",OPEN_LIBRARY,OL520104W,,PASS
+9780321043245,Mathematical ideas,Charles David Miller,Addison Wesley,1973,Mathematics,OPEN_LIBRARY,OL1991947W,,PASS
+9780471046325,Calculus,Howard Anton; Howard A. Anton; Irl Bivens,Wiley Custom Learning Solutions,1980,Calculus,OPEN_LIBRARY,OL485863W,,PASS
+9787111133063,Principles of Mathematical Analysis,Walter Rudin,McGraw-Hill Publishing,1953,Mathematical analysis,OPEN_LIBRARY,OL1295436W,,PASS
+9781804220207,Atomic Habits,James Clear,Penguin Random House,2016,Habit,OPEN_LIBRARY,OL17930368W,,PASS
+9781014792235,The Power of Your Subconscious Mind,Joseph Murphy,Gardners Books,1963,Self-Help,OPEN_LIBRARY,OL55806W,,PASS
+9788547000240,Mindset,Carol S. Dweck,Da kuai wen hua chu ban gu fen yu xian gong si,2006,Belief and doubt,OPEN_LIBRARY,OL2003465W,,PASS
+9781788171823,"Good Vibes, Good Life",Vex King,Generic,2015,Self-actualization (psychology),OPEN_LIBRARY,OL20884418W,,PASS
+9781639732043,I Want to Die but I Want to Eat Tteokbokki,Baek Se-Hee [백세희]; Anton Hur,Bloomsbury Publishing Plc,2022,Psychology,OPEN_LIBRARY,OL26510971W,,PASS
+9783959722308,The Laws of Human Nature,Robert Greene,Profile Books Ltd,2018,Self-actualization (Psychology),OPEN_LIBRARY,OL19761410W,,PASS
+9780345816023,12 Rules for Life,Jordan B. Peterson,Goldmann Verlag,2015,Conduct of life,OPEN_LIBRARY,OL17837119W,,PASS
+9780894643996,The psychology of money,Henry Clay Lindgren,Krieger Pub. Co.,1991,Psychological aspects of Money,OPEN_LIBRARY,OL2780331W,,PASS
+9781912453993,"A Macat Analysis of Daniel Kahneman's Thinking, Fast and Slow",Jacqueline Allan,Taylor & Francis Group,2018,Psychology,OPEN_LIBRARY,OL25742643W,,PASS
+9780747529279,Emotional Intelligence,Daniel Goleman,Bloomsbury Pub Ltd,1995,Emotions and cognition,OPEN_LIBRARY,OL1878267W,,PASS
+9781469000749,Attached,Amir Levine,Bluebird,2010,Attachment behavior,OPEN_LIBRARY,OL16929630W,,PASS
+9781250763891,Omgiven av Psykopater,Thomas Erikson,Essentials,2020,Sociology,OPEN_LIBRARY,OL20915117W,,PASS
+9780132893589,Educational psychology,Anita Woolfolk Hoy; Philip H. Winne; Nancy E. Perry,Prentice-Hall International,1987,Educational psychology,OPEN_LIBRARY,OL2651233W,,PASS
+9780205422012,Psychology,Robert A. Baron,Harcourt School,1977,Psychology,OPEN_LIBRARY,OL2661659W,,PASS
+9783959720328,Ego is the Enemy,Ryan Holiday,Profile Books Ltd,2016,Conduct of life,OPEN_LIBRARY,OL20033244W,,PASS
+9788467037593,The Art of Seduction,Robert Greene,"London, United Kingdom: Profile Books Ltd",2001,Courtship,OPEN_LIBRARY,OL1968364W,,PASS
+9780743269513,The 7 Habits of Highly Effective People,Stephen R. Covey,Tian xia yuan jian chu ban,1989,Success- Psychological aspects,OPEN_LIBRARY,OL2629977W,,PASS
+9780671632588,Psycho-cybernetics,Maxwell Maltz,Prentice-Hall,1960,Success,OPEN_LIBRARY,OL99079W,,PASS
+9781529146509,The Diary of a CEO,Steven Bartlett,Ebury Publishing,2023,Psychology,OPEN_LIBRARY,OL35721219W,,PASS
+9781847370297,The Secret,Rhonda Byrne,TS Production LLC,2000,the Law of Attraction,OPEN_LIBRARY,OL15839737W,,PASS
+9781624608049,Influence,Robert B. Cialdini,Pocket,1983,Compliance,OPEN_LIBRARY,OL3902892W,,PASS
+9781402580222,No More Mr. Nice Guy,Robert A. Glover; Robert Glover,Distribution,2001,Psychology,OPEN_LIBRARY,OL8502474W,,PASS
+9781443456623,The 5 a.m. Club,Robin S. Sharma,Debolsillo,2018,Self-actualization (psychology),OPEN_LIBRARY,OL19665926W,,PASS
+9781973869474,As a Man Thinketh,James Allen,"Lulu Press, Inc.",1902,New Thought,OPEN_LIBRARY,OL43024W,,PASS
+9780670781553,The Secret Language of Birthdays,Gary Goldschneider; Joost Elffers,Penguin Publishing Group,1992,Birthdays,OPEN_LIBRARY,OL40939W,,PASS
+9781529387728,The Art of Reading Minds,Henrik Fexeus,Hodder & Stoughton,2019,Persuasion (psychology),OPEN_LIBRARY,OL21337984W,,PASS
+9781945796067,101 Essays That Will Change The Way You Think,Brianna Wiest; Andrea Hernández González,Thought Catalog Books,2018,Self-Help,OPEN_LIBRARY,OL23746568W,,PASS
+9780991434862,Breaking the habit of being yourself,Joe Dispenza,Ediciones Urano,2012,New Thought,OPEN_LIBRARY,OL16215950W,,PASS
+9781526610201,Indistractable,Nir Eyal,Benbella Books,2019,Psychology,OPEN_LIBRARY,OL20464319W,,PASS
+9781402789007,Outwitting the devil,Napoleon Hill,imusti,2011,New Thought,OPEN_LIBRARY,OL16176999W,,PASS
+9788189297817,How to Win Friends and Influence People,Dale Carnegie,Quebecor,1936,Succès,OPEN_LIBRARY,OL1063267W,,PASS
+9780670916764,Quiet,Susan Cain,Crown,2012,Extraversion,OPEN_LIBRARY,OL16484595W,,PASS
+9780091883751,Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time,Brian Tracy,"Berrett-Koehler Publishers, Inc. and Blackstone Publishing",2001,Procrastination,OPEN_LIBRARY,OL2392324W,,PASS
+9781647432232,Read People Like a Book,Patrick King,Patrick King,2020,Nonverbal communication,OPEN_LIBRARY,OL25291486W,,PASS
+9781789461152,Talking With Psychopaths and Savages,Christopher Berry-Dee,"Blake Publishing, Limited, John",2019,Sociology,OPEN_LIBRARY,OL21216897W,,PASS
+9780874773552,Women Who Love Too Much,Robin Norwood,Penguin Random House,1985,Alcoholics,OPEN_LIBRARY,OL2647505W,,PASS
+9780471320340,Abnormal Psychology,Gerald C. Davison; John M. Neale; Ann M. Kring,Wiley,1974,Psychopathology,OPEN_LIBRARY,OL2680118W,,PASS
+9780495504962,Psychology,Dennis Coon; John O. Mitterer,Nelson Education,2001,Psychology,OPEN_LIBRARY,OL90590W,,PASS
+9780852073254,The game of life and how to play it,Florence Scovel Shinn,"Hay House, Incorporated",1925,Conduct of life,OPEN_LIBRARY,OL4794651W,,PASS
+9780534366742,Psychology,Wayne Weiten,Thomson Wadsworth,1989,Psychology,OPEN_LIBRARY,OL90044W,,PASS
+9789867291813,Secrets of the Millionaire Mind,T. Harv Eker,Harper,2005,Business,OPEN_LIBRARY,OL275915W,,PASS
+9786555111101,The Psychology of Money,Morgan Housel,no idea,2020,Money,OPEN_LIBRARY,OL21640039W,,PASS
+9781250179951,Surrounded by Idiots,Thomas Erikson,Editorial Planeta,2014,Sociology,OPEN_LIBRARY,OL20806514W,,PASS
+9780768487008,The art of persuasion,Bob Burg,Sound Wisdom LLC,2011,Persuasion (Psychology),OPEN_LIBRARY,OL22367098W,,PASS
+9780062322982,"King, warrior, magician, lover","Moore, Robert L.; Robert Moore; Doug Gillette",HarperSanFrancisco,1989,Men,OPEN_LIBRARY,OL2470902W,,PASS
+9780801333354,Communication theories,Werner J. Severin; Werner Joseph Severin; James W. Tankard,Addison Wesley Longman,1979,Communication,OPEN_LIBRARY,OL3252980W,,PASS
+9780190942793,Mass communication theory,Stanley J. Baran; Dennis K. Davis,Wadsworth Pub Co,1994,Mass media,OPEN_LIBRARY,OL470061W,,PASS
+9780702156564,"Media Studies, Volume 2",Pieter J. Fourie,Juta Academic,2005,Study and teaching,OPEN_LIBRARY,OL8336859W,,PASS
+9781506390789,Media/society,David Croteau; David R. Croteau; William Hoynes,Pine Forge Press,1997,Mass media,OPEN_LIBRARY,OL3346555W,,PASS
+9781138481619,Introducing Language and Intercultural Communication,Jane Jackson,Routledge,2014,Intercultural communication,OPEN_LIBRARY,OL20342084W,,PASS
+9780415807524,Interpersonal communication,Denise Solomon,Routledge,2012,LANGUAGE ARTS & DISCIPLINES / Communication Studies,OPEN_LIBRARY,OL16618482W,,PASS
+9780745698984,Gender and the Media,Rosalind Gill,"Blackwell Publishing, Incorporated",2006,Mass media and women,OPEN_LIBRARY,OL8457227W,,PASS
+9780374702458,Regarding the Pain of Others,Susan Sontag,Penguin Random House Grupo Editorial,2002,Social aspects of War in art,OPEN_LIBRARY,OL496469W,,PASS
+9780203892718,A cognitive psychology of mass communication,Richard Jackson Harris,Taylor & Francis Group,1994,Massacommunicatie,OPEN_LIBRARY,OL1934335W,,PASS
+9780415673167,Understanding digital literacies,Rodney H. Jones,Taylor & Francis Group,2012,Mass media and culture,OPEN_LIBRARY,OL16191409W,,PASS
+9781138363052,Understanding video games,Simon Egenfeldt-Nielsen; Simon Egenfeldt-Nielson; Jonas Heide Smith,Taylor & Francis Group,2007,Video games,OPEN_LIBRARY,OL12775435W,,PASS
+9780582036505,Communication models for the study of mass communications,Denis McQuail; Sven Windahl,Taylor & Francis Group,1981,Communication models,OPEN_LIBRARY,OL2631774W,,PASS
+9780429951282,Media Today,Joseph Turow,Taylor & Francis Group,1998,Mass media,OPEN_LIBRARY,OL2025401W,,PASS
+9781471171901,"Too fat, too slutty, too loud",Anne Helen Petersen,Plume,2017,Celebrities,OPEN_LIBRARY,OL19714272W,,PASS
+9781322106465,Media Literacy,Art Silverblatt,"Praeger, An Imprint of ABC-CLIO, LLC",1995,Media literacy,OPEN_LIBRARY,OL1988517W,,PASS
+9781645021728,The Psychology of Totalitarianism,Mattias Desmet,Chelsea Green,2022,totalitarianism,OPEN_LIBRARY,OL27299886W,,PASS
+9781136992308,Media effects and society,Elizabeth M. Perse,Taylor & Francis Group,2000,Influence,OPEN_LIBRARY,OL7797683W,,PASS
+9780801304361,Media Debates,Everette E. Dennis; John C. Merrill,Wadsworth Publishing Company,1990,Journalism,OPEN_LIBRARY,OL2922818W,,PASS
+9780340504093,More than meets the eye,Graeme Burton,Distributed exclusively in the USA by St. Martin's Press,1990,Mass media,OPEN_LIBRARY,OL2619838W,,PASS
+9781317477624,Advertising Media Planning,Larry D. Kelley; Larry D. Kelley; Donald W. Jugenheimer,Routledge,2003,Marketing,OPEN_LIBRARY,OL12292204W,,PASS
+9781134154999,"Media, Gender and Identity",David Gauntlett,Taylor & Francis Group,2002,Mass media and culture,OPEN_LIBRARY,OL608691W,,PASS
+9780335210978,Critical Readings,Chas Critcher; Cynthia Carter; Linda Steiner,Open University Press,2003,Mass media criticism,OPEN_LIBRARY,OL9279646W,,PASS
+9781664624078,Who Owns the Future?,Jaron Lanier,Allen Lane,2013,Ekonomiska aspekter,OPEN_LIBRARY,OL16801714W,,PASS
+9781315311036,Semiotics,Daniel Chandler,Taylor & Francis Group Plc,2001,Language Arts,OPEN_LIBRARY,OL6214626W,,PASS
+9780697085894,Introduction to mass communication,Jay Black; Frederick C. Whitney,Wm. C. Brown Publishers,1991,Communication,OPEN_LIBRARY,OL13682743W,,PASS
+9780141917986,Ways of Seeing,John Berger,B.B.C. and Penguin,1972,Art,OPEN_LIBRARY,OL1980231W,,PASS
+9780199026340,New Media,Terry Flew,Oxford University Press,2011,Media,OPEN_LIBRARY,OL20100396W,,PASS
+9781351174619,Fashion Journalism,Julie Bradford,Taylor & Francis Group,2014,Fashion,OPEN_LIBRARY,OL21237397W,,PASS
+9781000208801,The public relations handbook,Alison Theaker,Routledge,2002,Public relations,OPEN_LIBRARY,OL15917261W,,PASS
+9781501385162,A new history of documentary film,Betsy A. McLane,Bloomsbury Academic & Professional,2012,Documentary films,OPEN_LIBRARY,OL16216235W,,PASS
+9781317860778,Media Studies,Paul Long; Tim Wall,Taylor & Francis Group,2012,Mass media,OPEN_LIBRARY,OL21257279W,,PASS
+9781138901025,Media management,"George Sylvie; LeBlanc, Jan Wicks; Jan LeBlanc Wicks",Taylor & Francis Group,2003,Case studies,OPEN_LIBRARY,OL18551783W,,PASS
+9781000452617,Understanding Communication Research Methods,Stephen M. Croucher; Daniel Cronn-Mills,Taylor & Francis Group,2014,"Communication, research",OPEN_LIBRARY,OL21053087W,,PASS
+9780316012799,Crime beat,Michael Connelly,Back Bay Books,2006,Sociology,OPEN_LIBRARY,OL111725W,,PASS
+9780203119549,Media studies,Julian McDougall,Routledge,2012,Mass media,OPEN_LIBRARY,OL16283406W,,PASS
+9781412805070,Personal influence,Elihu Katz; Paul Lazarsfeld,Free Press,1955,Communication,OPEN_LIBRARY,OL6318019W,,PASS
+9781328695741,LikeWar,P. W. Singer,Houghton Mifflin Harcourt Publishing Company,2018,Cyberterrorism,OPEN_LIBRARY,OL19761415W,,PASS
+9781915590244,Survival of the Richest,Douglas Rushkoff,Scribe Publications,2022,Social Science,OPEN_LIBRARY,OL27810329W,,PASS
+9780230279209,Media psychology,Gayle Brewer,Palgrave Macmillan,2011,SOCIAL SCIENCE / Media Studies,OPEN_LIBRARY,OL16117856W,,PASS
+9781529760989,Understanding the Media,Eoin Devereux,"SAGE Publications, Limited",2003,Mass media,OPEN_LIBRARY,OL19337063W,,PASS
+9780367145422,Media Theory for a Level,Mark Dixon,Taylor & Francis Group,2019,Mass media,OPEN_LIBRARY,OL21652583W,,PASS
+9781135656263,Understanding audiences,Robert H. Wicks,Taylor & Francis Group,2000,Audiences,OPEN_LIBRARY,OL7796730W,,PASS
+9780745629346,Canonic texts in media research,Elihu Katz; Tamar Liebes; Avril Orloff,Polity Press,2002,Methodology,OPEN_LIBRARY,OL19162385W,,PASS
+9781135667498,Media entertainment,Dolf Zillmann; Peter Vorderer,Taylor & Francis Group,2000,Mass media,OPEN_LIBRARY,OL18360906W,,PASS
+9780534097806,Creative strategy in advertising,A. Jerome Jewler; Bonnie L. Drewniany,Wadsworth Publishing,1981,Advertising copy,OPEN_LIBRARY,OL2667100W,,PASS

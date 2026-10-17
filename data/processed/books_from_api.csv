@@ -1,0 +1,4 @@
+isbn,title,author,publisher,publication_year,subject,source,source_record_id,import_date,data_quality_flags
+9780134685991,Effective Java,Joshua Bloch,Addison-Wesley Professional,2017,Java (Computer program language),OPEN_LIBRARY,OL31838212M,2026-10-15,PASS
+9781491950357,Building Microservices: Designing Fine-Grained Systems,Sam Newman,O'Reilly Media,2015,Development,OPEN_LIBRARY,OL26837779M,2026-10-15,PASS
+9780262033848,Introduction to Algorithms,Thomas H. Cormen; Charles E. Leiserson; Ronald L. Rivest; Clifford Stein,The MIT Press,2009,Algorithms,OPEN_LIBRARY,OL23170657M,2026-10-15,PASS

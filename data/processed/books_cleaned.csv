@@ -1,0 +1,14 @@
+isbn,title,author,publisher,publication_year,subject,source,source_record_id,import_date,data_quality_flags
+9780134685991,Effective Java,Joshua Bloch,Addison-Wesley,2017,Computer Science,OPEN_LIBRARY,OL7353617M,2026-10-15,PASS
+9781491950357,Designing Data-Intensive Applications,Martin Kleppmann,O'Reilly Media,2017,Computer Science,OPEN_LIBRARY,OL19657492M,2026-10-15,PASS
+9780262033848,Introduction to Algorithms,Thomas H. Cormen,MIT Press,2009,Computer Science,OPEN_LIBRARY,OL2627643M,2026-10-15,PASS
+9780201616224,The Pragmatic Programmer,Andrew Hunt,Addison-Wesley,1999,Computer Science,OPEN_LIBRARY,OL39421M,2026-10-15,PASS
+9780132350884,Clean Code,Robert C. Martin,Prentice Hall,2008,Computer Science,OPEN_LIBRARY,OL24347580M,2026-10-15,PASS
+9780321125217,Domain-Driven Design,Eric Evans,Addison-Wesley,2003,Computer Science,OPEN_LIBRARY,OL1792367M,2026-10-15,PASS
+9780131103627,The C Programming Language,Brian W. Kernighan,Prentice Hall,1988,Computer Science,OPEN_LIBRARY,OL1532477M,2026-10-15,PASS
+9780596007126,Learning Python,Mark Lutz,O'Reilly Media,2003,Computer Science,OPEN_LIBRARY,OL36757M,2026-10-15,PASS
+9780262220699,Structure and Interpretation of Computer Programs,Harold Abelson,MIT Press,1996,Computer Science,OPEN_LIBRARY,OL344764M,2026-10-15,PASS
+9781449355739,Python for Data Analysis,Wes McKinney,O'Reilly Media,2017,Computer Science,OPEN_LIBRARY,OL26453221M,2026-10-15,PASS
+9780000000001,Missing Author Book,,Unknown Publisher,2020,Computer Science,OPEN_LIBRARY,TEST001,2026-10-15,MISSING_AUTHOR
+9780000000002,Missing Year Book,Test Author,Test Publisher,,Computer Science,OPEN_LIBRARY,TEST002,2026-10-15,MISSING_YEAR
+9780134685991,Effective Java (Duplicate),Joshua Bloch,Addison-Wesley,2017,Computer Science,OPEN_LIBRARY,OL7353617M_DUP,2026-10-15,DUPLICATE_ISBN
